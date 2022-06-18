@@ -18,3 +18,6 @@ Ao longo do periodo fui desenvolido alguns trablahos que me marcaram e que eu ac
 ### Raciocinio Algorítmico
 <p> <img src="./imagens/minado.png"></p>
 **Campo Minado** é um programa feito em linguagem **Python** baseado no jogo do campo minado em que ele pede uma posição ao usuario, E se nessa posição tiver uma bomba ele perde o jogo e se não tiver ele continua. No desenvolvimento desse codigo aprendi a lidar bem com a **Logica por traz de Arrays** bem como **Seu comportamento**.
+
+<p> <img src="./imagens/gmemory.png"></p>
+**Jogo da Memoria** Tambem feito em linguagem **Python**, baseado num jogo da memoria, em que o usuário deve acertar todos os pares de caracteres iguais para vencer o Jogo. Com o desenvolvimento desse TDE eu aprendi a **Criar Funções** para facilitar o desenvolvimento bem como **Utilizar Bibliotecas Externas** para melhorar a intuitividade do usuário
