@@ -8,14 +8,14 @@ Meu nome é Lucas Gabriel, Tenho 18 anos, Sou aluno do 1º periodo do Curso de C
 ## Meus Projetos
 Ao longo do periodo fui desenvolido alguns trablahos que me marcaram e que eu acho importante mostra-los aqui
 
-### Experiencia Criativa
+## Experiencia Criativa
 <p> <img src="./imagens/game.jpg"></p>
 **Second Nature** é um jogo que foi desenvolvido por mim e minha equipe no **Construct**, ele é de plataforma e conta basicamente o personagem principal tem que fazer alguns puzzles para passar de fase e concluir o jogo, no desenvolvimento dele aprendi a **Lidar com eventos e trabalhar a Logica** por cima deles.
 
 <p> <img src="./imagens/Copa.png"></p>
 **Aplicativo Multimidia - Copa Do Mundo** é um aplicativo com o intuito **Educacional/Cultural** em que o usuário pode ver informações sobre as Copas do Mundo, bem como seus melhores gols, campeões, etc. No desenvolvimento desse projeto eu aprendi a trabalhar com **Multiplas bibliotecas e Multimidias**.
 
-### Raciocinio Algorítmico
+## Raciocinio Algorítmico
 <p> <img src="./imagens/minado.png"></p>
 **Campo Minado** é um programa feito em linguagem **Python** baseado no jogo do campo minado em que ele pede uma posição ao usuario, E se nessa posição tiver uma bomba ele perde o jogo e se não tiver ele continua. No desenvolvimento desse codigo aprendi a lidar bem com a **Logica por traz de Arrays** bem como **Seu comportamento**.
 
