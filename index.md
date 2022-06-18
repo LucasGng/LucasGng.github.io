@@ -9,4 +9,5 @@ Meu nome é Lucas Gabriel, Tenho 18 anos, Sou aluno do 1º periodo do Curso de C
 Ao longo do periodo fui desenvolido alguns trablahos que me marcaram e que eu acho importante mostra-los aqui
 
 ### Experiencia Criativa
-**Second Nature** é um jogo que foi desenvolvido por mim e minha equiep
+<p> <img src="./imagens/game.jpg"></p>
+**Second Nature** é um jogo que foi desenvolvido por mim e minha equipe
