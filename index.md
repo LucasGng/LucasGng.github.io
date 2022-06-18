@@ -21,3 +21,7 @@ Ao longo do periodo fui desenvolido alguns trablahos que me marcaram e que eu ac
 
 <p> <img src="./imagens/gmemory.png"></p>
 **Jogo da Memoria** Tambem feito em linguagem **Python**, baseado num jogo da memoria, em que o usuário deve acertar todos os pares de caracteres iguais para vencer o Jogo. Com o desenvolvimento desse TDE eu aprendi a **Criar Funções** para facilitar o desenvolvimento bem como **Utilizar Bibliotecas Externas** para melhorar a intuitividade do usuário
+
+## Raciocinio Lógico Matemático
+<p> <img src="./imagens/detetive.png"></p>
+**Detetive** feito em **Python**, nos tinhamos que fazer com que o usuário fosse desvendando as hipoteses com **Deducoes logicas** e **Regras de inferencia**, para chegar em uma conclusão final. Neste TDE eu aprendi como **Usar Deduções Logicas** com a **Criação de Algoritmos**
