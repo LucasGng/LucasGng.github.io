@@ -6,7 +6,7 @@ Meu nome é Lucas Gabriel, Tenho 18 anos, Sou aluno do 1º periodo do Curso de C
 <hr/>
 
 ## Meus Projetos
-Ao longo do periodo fui desenvolido alguns trablahos que me marcaram e que eu acho importante mostra-los aqui
+Ao longo do periodo fui desenvolvendo alguns trabalhos que me marcaram e que eu acho importante mostra-los aqui
 
 ## Experiencia Criativa
 <p> <img src="./imagens/game.jpg"></p>
