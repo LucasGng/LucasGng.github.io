@@ -1,30 +1,68 @@
 # Sobre Mim
 
 <p> <img src="./imagens/myfoto.png" width="300" height="300"></p>
-Meu nome é Lucas Gabriel, Tenho 18 anos, Sou aluno do 1º periodo do Curso de Ciencia da Computação. Sou formado em Programação de Jogos Digitais pelo SENAI. E busco sempre aprender na area do Desenvolvimento.
+Meu nome é Lucas Gabriel Nunes Geremias, tenho 21 anos, sou estudante do 7º período de Ciência da Computação na PUCPR. Com dois anos de experiência em Análise de Dados e Business Intelligence, busco me especializar em Data Science, Machine Learning e Data Engineering.
 
 <hr/>
 
-## Meus Projetos
-Ao longo do periodo fui desenvolvendo alguns trabalhos que me marcaram e que eu acho importante mostra-los aqui
+## Resumo de Qualificações
+- **Linguagens & Frameworks**: Python (Pandas, Sklearn, PyTorch, PySpark), SQL, SAS
+- **BI & Visualização**: Power BI Avançado, Power Query, Databricks
+- **Banco de Dados**: MySQL, SQL Server, Oracle
+- **Metodologias Ágeis**: Scrum, Kanban
+- **Versionamento**: Git, GitHub
+- **Soft Skills**: Pensamento Crítico, Comunicação Profissional, Resolução de Problemas
 
-## Experiencia Criativa
-<p> <img src="./imagens/game.jpg"></p>
-**Second Nature** é um jogo que foi desenvolvido por mim e minha equipe no **Construct**, ele é de plataforma e o enredo conta basicamente com o personagem principal, Que tem que fazer alguns puzzles para passar de fase e concluir o jogo, no desenvolvimento dele aprendi a **Lidar com eventos e trabalhar a Logica** por cima deles.
+## Experiência Profissional
 
-<p> <img src="./imagens/Copa.png"></p>
-**Aplicativo Multimidia - Copa Do Mundo** é um aplicativo com o intuito **Educacional/Cultural** em que o usuário pode ver informações sobre as Copas do Mundo, bem como seus melhores gols, campeões, etc. No desenvolvimento desse projeto eu aprendi a trabalhar com **Multiplas bibliotecas e Multimidias**.
+### Banco Bradesco (Ago/2023 - Atual)
+**Estagiário em Engenharia de Dados - Gerenciamento de Riscos Financeiros**
+- Migração de processos SAS para Databricks (pipelines AS-IS/TO-BE)
+- Documentação técnica de processos analíticos
+- Habilitação de áreas de negócio para ambiente Cloud (Databricks)
+- Auxílio em decisões de arquitetura e governança de dados
 
-<p> <img src="./imagens/InfoAnime.png"></p>
-**InfoAnime** É um Aplicativo WEB desenvolvido por minha equipe, Com o intuito **Informativo/Cultural** em que apresenta **informações sobre os Animes** como: Aberturas, Imagens e top mais assistidos, Alem da possibilidade de **Criar um cadastro pessoal**. Com o Desenvolvimento desse projeto aprendi alguns conhecimentos com **Front End**, **PHP** e **Banco de Dados**.
+### WayV Tecnologia (Mar/2023 - Jul/2023)
+**Estagiário em Business Intelligence**
+- Desenvolvimento de dashboards integrando API Oracle com Power BI
+- Automações com Power Automate
+- Gestão de projetos com clientes
 
-## Raciocinio Algorítmico
-<p> <img src="./imagens/minado.png"></p>
-**Campo Minado** é um programa feito em linguagem **Python** baseado no jogo do campo minado em que ele pede uma posição ao usuario, E se nessa posição tiver uma bomba ele perde o jogo e se não tiver ele continua. No desenvolvimento desse codigo aprendi a lidar bem com a **Logica por traz de Arrays** bem como **Seu comportamento**.
+### Ásia Shipping (Jun/2022 - Fev/2023)
+**Estagiário em Data Strategy**
+- Criação de relatórios e aplicativos low-code (Power Apps)
+- Automações com Power Automate e SharePoint
+- Gestão ágil de projetos (Scrum)
 
-<p> <img src="./imagens/gmemory.png"></p>
-**Jogo da Memoria** Tambem feito em linguagem **Python**, baseado num jogo da memoria, em que o usuário deve acertar todos os pares de caracteres iguais para vencer o Jogo. Com o desenvolvimento desse TDE eu aprendi a **Criar Funções** para facilitar o desenvolvimento bem como **Utilizar Bibliotecas Externas** para melhorar a intuitividade do usuário.
+## Formação Acadêmica
+**Ciência da Computação**  
+PUCPR (03/2022 - 12/2025) - 7º período  
 
-## Raciocinio Lógico Matemático
-<p> <img src="./imagens/detetive.png"></p>
-**Detetive** feito em **Python**, nos tinhamos que fazer com que o usuário fosse desvendando as hipoteses com **Deducoes logicas** e **Regras de inferencia**, para chegar em uma conclusão final. Neste TDE eu aprendi como **Usar Deduções Logicas** com a **Criação de Algoritmos**
+**Técnico em Programação de Jogos Digitais**  
+SENAI 
+
+## Projetos em Destaque
+[![GitHub](https://img.shields.io/badge/-Portfólio_GitHub-181717?logo=github)](https://github.com/LucasGng)  
+[![Google Colab](https://img.shields.io/badge/-Projetos_Colab-F9AB00?logo=googlecolab)](https://drive.google.com/drive/folders/1lvzhw1Qn-b6bMAhzANT2WLQl0eZClHXw)
+
+### Machine Learning
+- Modelos preditivos com Scikit-learn e PyTorch
+- Análises exploratórias com Pandas/NumPy
+- Visualizações com Matplotlib/Seaborn
+
+### Engenharia de Dados
+- Pipelines ETL com PySpark
+- Processos de migração SAS → Databricks
+- Modelagem de bancos de dados relacionais
+
+## Idiomas
+- Português: Nativo
+- Inglês: Intermediário
+
+<hr/>
+
+<p align="center">
+  <a href="mailto:lgngpro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://wa.me/5541984935309"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://www.linkedin.com/in/lucas-gabriel-nunes-geremias-28a083240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
