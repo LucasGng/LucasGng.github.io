@@ -66,3 +66,7 @@ SENAI
   <a href="https://wa.me/5541984935309"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://www.linkedin.com/in/lucas-gabriel-nunes-geremias-28a083240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+
+## 📄 Currículo para Download
+
+[![Download Currículo](https://img.shields.io/badge/Download_Currículo-DOCX-0078D4?style=for-the-badge&logo=microsoftword&logoColor=white)](https://docs.google.com/document/d/1l8cAlm1D9-aQXhU2KusuHBcGm4D8_NPe/edit?usp=sharing&ouid=116932263520267439651&rtpof=true&sd=true)
