@@ -1,6 +1,6 @@
 # Sobre Mim
 
-<p> <img src="./imagens/myfoto.png" width="300" height="300"></p>
+<p> <img src="./imagens/minha_foto_nova_linkedin.jpeg" width="300" height="300"></p>
 Meu nome é Lucas Gabriel Nunes Geremias, tenho 21 anos, sou estudante do 7º período de Ciência da Computação na PUCPR. Com dois anos de experiência em Análise de Dados e Business Intelligence, busco me especializar em Data Science, Machine Learning e Data Engineering.
 
 <hr/>
